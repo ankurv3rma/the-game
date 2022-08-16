@@ -12,7 +12,8 @@
     "next": "latest",
     "react": "18.1.0",
     "react-dom": "18.1.0",
-    "react-icons": "^4.4.0"
+    "react-icons": "^4.4.0",
+    "tone": "^14.7.77"
   },
   "devDependencies": {
     "@types/lodash": "^4.14.182",
