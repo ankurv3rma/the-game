@@ -7,7 +7,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: ankurv3rma/ts-action-test@v1.2
+        uses: ankurv3rma/ts-action-test@v1.3
         with:
           who-to-greet: "Endor"
       # Use the output from the `hello` step
